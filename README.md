@@ -43,4 +43,4 @@ Designed for Linux-first workflows, simple enough to understand, solid enough to
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Zoom0099/StopWatch.git
-   cd Timer_Stopwatch-for-Linux
+   cd StopWatch
