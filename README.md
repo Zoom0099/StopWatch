@@ -42,6 +42,18 @@ Designed for Linux-first workflows, simple enough to understand, solid enough to
 
 ---
 
+### Environment Setup & Dependencies
+Tkinter is required. If your Linux distribution does not include it by default:
+- Ubuntu/Debian: `sudo apt-get install python3-tk`
+- Arch Linux: `sudo pacman -S tk`
+---
+
+
+### Run the Application
+Execute the script directly from your terminal:
+```bash
+python3 clock_app.py
+
 ## 🚀 Installation & Usage
 
 Clone the repository:
@@ -49,3 +61,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/Zoom0099/Timer_Stopwatch-for-Linux.git
 cd Timer_Stopwatch-for-Linux
+
+
+
